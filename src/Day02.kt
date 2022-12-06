@@ -111,5 +111,3 @@ enum class MovesResult {
         }
     }
 }
-
-
